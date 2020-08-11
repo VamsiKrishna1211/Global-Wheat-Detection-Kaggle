@@ -1,0 +1,5 @@
+- The code is in "global-wheat-detection-final.ipynb"
+- I have added comments as much as possible to understand the code.
+- The dependencies/requirements are in "requirements.txt"
+- The model JSON file is in "Final_model_structure.json"
+- As the Trained model weights file size is about 400 MB, I'm not attaching the file. If needed please inform me.
